@@ -3,7 +3,7 @@
 
 ## Planned product:
 ```
-A two-player top-down real time Red-vs-Blue shooter game. Shoot and change colors in real time thanks to Sockets!
+A two-player top-down Red-vs-Blue shooter game.
 
 ```
 
